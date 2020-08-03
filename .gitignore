@@ -1,0 +1,7 @@
+.idea/
+target/
+project/boot/
+project/plugins/project/
+project/*-shim.sbt
+project/project/
+project/target/
